@@ -2,9 +2,9 @@
 	background-color: #8D278A;
 	height: 60px;
 	width: 100%;
-	    -webkit-box-shadow: 0px 0px 2px 1px #A8A8A8;
-       -moz-box-shadow: 0px 0px 2px 1px #A8A8A8;
-            box-shadow: 0px 0px 2px 1px #A8A8A8;
+	-webkit-box-shadow: 0px 0px 2px 1px #A8A8A8;
+    -moz-box-shadow: 0px 0px 2px 1px #A8A8A8;
+    box-shadow: 0px 0px 2px 1px #A8A8A8;
 }
 .logo{
 	position: absolute;
@@ -17,7 +17,7 @@
 	padding-top: 125px;
 	line-height:58px;
 	font-size: 65px;
-	 margin-left: auto ;
+	margin-left: auto ;
   	margin-right: auto ;
   	width: 700px;
   	text-align: center;
@@ -64,9 +64,8 @@
 .footer{
 	height: 40px;
 	width: 100%;
-		background-color: #8D278A;
-		margin-top: 100px;
-
+	background-color: #8D278A;
+	margin-top: 100px;
 }
 .error{
 	color: red;
@@ -82,30 +81,28 @@
 	border: 1px solid rgb(216, 216, 216);
 }
 .input-error{
-		border: 1px solid rgb(255, 0, 0);
+	border: 1px solid rgb(255, 0, 0);
 }
 .submit{
 	background-color: #8D278A;
-
-border-style: none;
+	border-style: none;
 	-moz-box-shadow: 0 0 6px #A8A8A8;
--webkit-box-shadow: 0 0 6px #A8A8A8;
-box-shadow: 0 0 6px #A8A8A8;
-height: 50px;
-width: 110px;
--webkit-border-radius: 25px;
--moz-border-radius: 25px;
-border-radius: 25px;
-font-family: effra;
-color: white;
-font-size: 20px;
-margin-top:10px;
+	-webkit-box-shadow: 0 0 6px #A8A8A8;
+	box-shadow: 0 0 6px #A8A8A8;
+	height: 50px;
+	width: 110px;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+	font-family: effra;
+	color: white;
+	font-size: 20px;
+	margin-top:10px;
 }
 .form{
-
 	margin-top: 30px;
 	font-size: 20px;
-	 margin-left: auto ;
+	margin-left: auto ;
   	margin-right: auto ;
   	width: 350px;
   	text-align: center;
@@ -119,7 +116,7 @@ margin-top:10px;
 	padding-bottom: 30px;
 }
 .form h1{
-		font-family: "alternate-gothic-no-3-d";
+	font-family: "alternate-gothic-no-3-d";
 	text-align: center;
 	position: absolute;
 	top: -35px;
@@ -136,7 +133,6 @@ margin-top:10px;
 		padding-left: 0px;
 		padding-right: 0px;
 		border-style: none;
-
 	}
 	.form h1{
 		position: relative;
@@ -146,7 +142,6 @@ margin-top:10px;
 @media (max-width: 350px) {
 	.form{
 		width: 100%;
-
 	}
 	.form h1{
 		width: 100%;
